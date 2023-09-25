@@ -9,6 +9,7 @@ public class Lottery {
     private Random random;
     private ColorSupplier colorSupplier;
     private int maxNumber;
+
     public Lottery() {
     }
 

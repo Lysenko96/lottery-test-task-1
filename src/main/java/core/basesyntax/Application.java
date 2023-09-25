@@ -9,6 +9,7 @@ public class Application {
 
     public static final int TEST_COUNTER = 3;
     public static final int MAX_NUMBER = 100;
+
     public static void main(String[] args) {
 <<<<<<< HEAD
         Lottery ball1 = new Lottery();
